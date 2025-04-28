@@ -483,7 +483,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 254778085,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/servers/main-1.20.1/forgemods/required/spb-revamped-1.20.1-1.1.0.jar",
+            "url": "https://cdn.modrinth.com/data/H6pjI7Ol/versions/ormD76e4/spb-revamped-1.20.1-1.1.0.jar",
             "MD5": "ea3e44231b0afa7611e27157b95b976d"
           }
         },
